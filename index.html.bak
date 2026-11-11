@@ -1,0 +1,2061 @@
+<p><img alt="awesome-certificates.png" src="https://github.com/PanXProject/awesome-certificates/blob/main/media/awesome-certificates.png?raw=true" data-hpc="true"></p>
+<h1 id="awesome-certificates-awesome-gitter-discord">Awesome
+Certificates <a href="https://awesome.re"><img
+src="https://awesome.re/badge-flat2.svg" alt="Awesome" /></a> <a
+href="https://gitter.im/PanXProject/awesome-certificates?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge"><img
+src="https://badges.gitter.im/PanXProject/awesome-certificates.svg"
+alt="Gitter" /></a> <a href="https://discord.com/invite/3kSS9dvnPz"><img
+src="https://badgen.net/badge/icon/discord?icon=discord&amp;label"
+alt="Discord" /></a></h1>
+<!-- markdown-link-check-disable -->
+<p><a
+href="https://github.com/PanXProject/awesome-certificates/blob/main/CONTRIBUTING.md">Contribution
+guidelines</a> / <a
+href="https://github.com/PanXProject/awesome-certificates/compare">Add a
+course/certificate</a> <!-- markdown-link-check-enable --> A curated of
+list of IT, computer science and business courses with certificates
+&amp; digital badges to earn upon completion.</p>
+<p>Each course on the list is free to take as well as the badge and
+certificate.</p>
+The list is organized as follows:
+<ol>
+<li>
+Course/certificate title
+</li>
+<li>
+Course provider/certificate issuer name
+</li>
+<li>
+Level of diffculty(Beginner, Intermediate or Professional)
+</li>
+<li>
+Course/certificate duration in hours
+</li>
+<li>
+Reward(🏅= Digital Badge or 🏆 = Certificate of Completion)
+</li>
+</ol>
+<p><b>Want to contribute to this list?</b> <br> Fork this <a
+href="https://github.com/PanXProject/awesome-certificates/fork">repo</a>,
+make the changes on the <code>readme.md</code> file and then open a <a
+href="https://github.com/PanXProject/awesome-certificates/compare">new
+issue</a>. Make sure to check out both the <a
+href="https://github.com/PanXProject/awesome-certificates/blob/main/pull_request_template.md">contribution</a>
+and <a
+href="https://github.com/PanXProject/awesome-certificates/blob/main/pull_request_template.md">pull
+request</a> guidelines.</p>
+<p><b>Have ideas on how to improve this list or features you’d like to
+see?</b> <br> Kindly mention it <a
+href="https://github.com/PanXProject/awesome-certificates/issues/new?assignees=&amp;labels=&amp;template=feature_request.md&amp;title=%5BFEATURE%5D">here</a>
+by opening a new issue and we will do our best to address it.</p>
+<p><b>Can’t find the certificate you’re looking for?</b> <br> Request it
+<a
+href="https://github.com/PanXProject/awesome-certificates/issues/new?assignees=&amp;labels=&amp;template=certificate-request.md&amp;title=%5BCERTIFICATE%5D">here</a>
+and we will find for you.</p>
+<p><b>Something isn’t quite right?</b> <br> Report it <a
+href="https://github.com/PanXProject/awesome-certificates/issues/new?assignees=&amp;labels=&amp;template=bug_report.md&amp;title=%5BBUG%5D">here</a>.</p>
+<h2 id="contents">Contents</h2>
+<ul>
+<li><a href="#security">Security</a></li>
+<li><a href="#front-end">Front-End</a></li>
+<li><a href="#back-end">Back-End</a></li>
+<li><a href="#blockchain">Blockchain</a></li>
+<li><a href="#data-analysis-and-visualization">Data Analysis and
+Visualization</a></li>
+<li><a href="#statistics">Statistics</a></li>
+<li><a href="#data-science">Data Science</a></li>
+<li><a href="#big-data">Big Data</a></li>
+<li><a href="#machine-and-deep-learning">Machine and Deep
+Learning</a></li>
+<li><a href="#artificial-intelligence">Artificial Intelligence</a></li>
+<li><a href="#networking">Networking</a></li>
+<li><a href="#operating-systems">Operating Systems</a></li>
+<li><a href="#electrical-engineering">Electrical Engineering</a></li>
+<li><a href="#robotics-and-iot">Robotics and IoT</a></li>
+<li><a href="#chatbots">Chatbots</a></li>
+<li><a href="#devops">DevOps</a></li>
+<li><a href="#programming-languages">Programming Languages</a></li>
+<li><a href="#theories-and-concepts">Computer Theories and
+Concepts</a></li>
+<li><a href="#business">Business</a></li>
+<li><a href="#game-development">Game Development</a></li>
+<li><a href="#other-awesome-lists">Other Awesome Lists</a></li>
+</ul>
+<h2 id="security">Security</h2>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity">Intro
+to Cybersecurity</a></td>
+<td style="text-align: left;">Cisco Networking Academy</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/cisco/badge/introduction-to-cybersecurity">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials">Cybersecurity
+Essentials</a></td>
+<td style="text-align: left;">Cisco Networking Academy</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">30</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/cisco/badge/cybersecurity-essentials">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.netacad.com/courses/packet-tracer">Intro to Packet
+Tracer</a></td>
+<td style="text-align: left;">Cisco Networking Academy</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/cisco/badge/introduction-to-packet-tracer">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://skills.yourlearning.ibm.com/activity/ILB-DNRPWDGQGMMY7GGD">Cybersecurity
+Fundamentals</a></td>
+<td style="text-align: left;">IBM / SkillsBuild</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/cybersecurity-fundamentals">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.freecodecamp.org/learn/information-security/">Information
+Security Certification</a></td>
+<td style="text-align: left;">FreeCodeCamp</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">300</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://tryhackme.com/path/outline/jrpenetrationtester">JR
+Penetration Tester</a></td>
+<td style="text-align: left;">TryHackMe</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">64</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://tryhackme.com/path/outline/blueteam">Cyber
+Defense</a></td>
+<td style="text-align: left;">TryHackMe</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">48</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://tryhackme.com/path/outline/redteaming">Red
+Teaming</a></td>
+<td style="text-align: left;">TryHackMe</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">48</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://tryhackme.com/path/outline/pentesting">Offensive
+Testing</a></td>
+<td style="text-align: left;">TryHackMe</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">47</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://tryhackme.com/path/outline/pentestplus">Comptia
+Pentest+</a></td>
+<td style="text-align: left;">TryHackMe</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">51</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://tryhackme.com/path/outline/web">Web Fundamentals</a></td>
+<td style="text-align: left;">TryHackMe</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">32</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.isc2.org/certifications/cc">Certified in
+Cybersecurity</a></td>
+<td style="text-align: left;">ISC2</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">14</td>
+<td style="text-align: center;"><a
+href="https://www.credly.com/org/isc2/badge/certified-in-cybersecurity-cc">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security">Introduction
+to Cyber Security</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/types-of-cyber-security">Types
+of Cyber Security</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/cyber-forensics">Cyber
+Forensics</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-information-security">Introduction
+to Information Security</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/network-security">Network
+Security</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/advanced-cyber-security-threats-and-governance">Advanced
+Cyber Security - Threats and Governance</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/encryption">Encryption
+Basics</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+</tbody>
+</table>
+<h2 id="front-end">Front-End</h2>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive
+Web Design Certification</a></td>
+<td style="text-align: left;">FreeCodeCamp</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">300</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.freecodecamp.org/learn/front-end-development-libraries/">Front-End
+Libraries Certification</a></td>
+<td style="text-align: left;">FreeCodeCamp</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">300</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.lambdatest.com/certifications/selenium-101">Selenium
+101</a></td>
+<td style="text-align: left;">LambdaTest</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.hackerrank.com/skills-verification/angular_basic">Angular</a></td>
+<td style="text-align: left;">HackerRank</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.hackerrank.com/skills-verification/react_basic">React</a></td>
+<td style="text-align: left;">HackerRank</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1.5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.hackerrank.com/skills-verification/nodejs_intermediate">Node.js</a></td>
+<td style="text-align: left;">HackerRank</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+</tbody>
+</table>
+<h2 id="back-end">Back-End</h2>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back
+End Development and APIs Certification</a></td>
+<td style="text-align: left;">FreeCodeCamp</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">300</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://learn.saylor.org/course/view.php?id=93">CS403:
+Introduction to Modern Database Systems</a></td>
+<td style="text-align: left;">Saylor Academy</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">42</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.hackerrank.com/skills-verification/rest_api_intermediate">REST
+API</a></td>
+<td style="text-align: left;">HackerRank</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">1.5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://university.mongodb.com/courses/M001/about">MongoDB
+Basics</a></td>
+<td style="text-align: left;">MongoDB</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">8.5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://university.mongodb.com/courses/M100/about">MongoDB for SQL
+Pros</a></td>
+<td style="text-align: left;">MongoDB</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://university.mongodb.com/courses/M103/about">MongoDB Cluster
+Adminstration</a></td>
+<td style="text-align: left;">MongoDB</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">9.5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://university.mongodb.com/courses/M121/about">MongoDB
+Aggregation Framework</a></td>
+<td style="text-align: left;">MongoDB</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">9</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://university.mongodb.com/courses/T101/about">Crafting
+Conference Abstracts</a></td>
+<td style="text-align: left;">MongoDB</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1.5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://university.mongodb.com/courses/A300/about">Atlas
+Security</a></td>
+<td style="text-align: left;">MongoDB</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">0.5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://university.mongodb.com/courses/M201/about">MongoDB
+Performance</a></td>
+<td style="text-align: left;">MongoDB</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">7</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://university.mongodb.com/courses/M220J/about">MongoDB for
+Java Developers</a></td>
+<td style="text-align: left;">MongoDB</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">7.5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://university.mongodb.com/courses/M220JS/about">MongoDB for
+JavaScript Developers</a></td>
+<td style="text-align: left;">MongoDB</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">6.5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://university.mongodb.com/courses/M220N/about">MongoDB for
+.NET Developers</a></td>
+<td style="text-align: left;">MongoDB</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">6.5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://university.mongodb.com/courses/M220P/about">MongoDB for
+Python Developers</a></td>
+<td style="text-align: left;">MongoDB</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">6.5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://university.mongodb.com/courses/M312/about">Diagnostics and
+Debugging for MongoDB</a></td>
+<td style="text-align: left;">MongoDB</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">6.5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://university.mongodb.com/courses/M320/about">MongoDB Data
+Modeling</a></td>
+<td style="text-align: left;">MongoDB</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">7</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.kaggle.com/learn/intro-to-sql">Intro to SQL</a></td>
+<td style="text-align: left;">Kaggle</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.kaggle.com/learn/advanced-sql">Advanced SQL</a></td>
+<td style="text-align: left;">Kaggle</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+</tbody>
+</table>
+<h2 id="blockchain">Blockchain</h2>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://courses.cfte.education/free-online-blockchain-masterclass/">Blockchain
+Masterclass</a></td>
+<td style="text-align: left;">Centre for Finance, Technology and
+Entrepreneurship</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">🏅</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/blockchain-basics">Blockchain
+Basics</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">2.5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://learn.saylor.org/course/view.php?id=500">Bitcoin for
+Developers</a></td>
+<td style="text-align: left;">Saylor Academy</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">18</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+</tbody>
+</table>
+<h2 id="data-analysis-and-visualization">Data Analysis and
+Visualization</h2>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/data-analysis-python">Data
+Analysis with Python</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/data-analysis-using-python">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.freecodecamp.org/learn/data-analysis-with-python/">Data
+Analysis with Python Certification</a></td>
+<td style="text-align: left;">FreeCodeCamp</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">300</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/data-visualization-with-python">Data
+Visualization with Python</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/data-visualization-using-python">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/data-visualization-with-r/">Data
+Visualization with R</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/data-visualization-with-r">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.freecodecamp.org/learn/data-visualization/">Data
+Visualization Certification</a></td>
+<td style="text-align: left;">FreeCodeCamp</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">300</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.kaggle.com/learn/data-visualization">Data
+Visualization</a></td>
+<td style="text-align: left;">Kaggle</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.kaggle.com/learn/data-cleaning">Data Cleaning</a></td>
+<td style="text-align: left;">Kaggle</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualisation-in-tableau">Data
+Visualisation in Tableau</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-with-power-bi">Data
+Visualization With Power BI</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+</tbody>
+</table>
+<h2 id="statistics">Statistics</h2>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/statistics-101">Statistics
+101</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/statistics-101">🏅</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="data-science">Data Science</h2>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/data-science-methodology-2">Data
+Science Methodologies</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/data-science-methodologies">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/data-science-101/">Data Science
+101</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/data-science-foundations-level-1">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2">Data
+Science Tools</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/data-science-tools">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/python-for-data-science">Python
+for Data Science</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/python-for-data-science">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/popular-applications-of-data-science">Popular
+Applications of Data Science</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/career-in-data-science">Career
+in Data Science</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-data-science">Introduction
+to Data Science</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-mathematics">Data
+Science Mathematics</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/r-for-data-science">R
+for Data Science</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/statistical-methods-for-decision-making">Statistical
+Methods for Data Science</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/probability-for-data-science">Probability
+for Data Science</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/data-preprocessing">Data
+Preprocessing</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science">SQL
+for Data Science</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+</tbody>
+</table>
+<h2 id="big-data">Big Data</h2>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/what-is-big-data">Big Data
+Foundations - Level 1</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/big-data-foundations-level-1">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0111EN+2016">Hadoop
+Foundations - Level 1</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/hadoop-foundations-level-1">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/what-is-spark">Spark
+Fundamentals I</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/spark-level-1">🏅</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="machine-and-deep-learning">Machine and Deep Learning</h2>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/introduction-deep-learning">Deep
+Learning Fundamentals</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/deep-learning-essentials">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/deep-learning-tensorflow">Deep
+Learning with TensorFlow</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/deep-learning-using-tensorflow">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/machine-learning-with-python/">Machine
+Learning with Python</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/machine-learning-with-python-level-1">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.freecodecamp.org/learn/machine-learning-with-python/">Machine
+Learning with Python Certification</a></td>
+<td style="text-align: left;">FreeCodeCamp</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">300</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.kaggle.com/learn/intro-to-machine-learning">Intro to
+Machine Learning</a></td>
+<td style="text-align: left;">Kaggle</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.kaggle.com/learn/intermediate-machine-learning">Intermediate
+Machine Learning</a></td>
+<td style="text-align: left;">Kaggle</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.kaggle.com/learn/machine-learning-explainability">Machine
+Learning Explainability</a></td>
+<td style="text-align: left;">Kaggle</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.kaggle.com/learn/intro-to-deep-learning">Intro to Deep
+Learning</a></td>
+<td style="text-align: left;">Kaggle</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.kaggle.com/learn/time-series">Time Series</a></td>
+<td style="text-align: left;">Kaggle</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.kaggle.com/learn/feature-engineering">Feature
+Engineering</a></td>
+<td style="text-align: left;">Kaggle</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.kaggle.com/learn/computer-vision">Computer
+Vision</a></td>
+<td style="text-align: left;">Kaggle</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+</tbody>
+</table>
+<h2 id="artificial-intelligence">Artificial Intelligence</h2>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.elementsofai.com/">Elements of AI</a></td>
+<td style="text-align: left;">University of Helsinki</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">30</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.kaggle.com/learn/intro-to-ai-ethics">Intro to AI
+Ethics</a></td>
+<td style="text-align: left;">Kaggle</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning">Intro
+to Game AI and Reinforcement Learning</a></td>
+<td style="text-align: left;">Kaggle</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.cloudskillsboost.google/course_templates/536">Introduction
+to Generative AI</a></td>
+<td style="text-align: left;">Google Cloud Skills Boost</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">0.75</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-artificial-intelligence-1">Introduction
+to Artificial Intelligence</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1.5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://explore.skillbuilder.aws/learn/course/external/view/elearning/17763/foundations-of-prompt-engineering">Foundations
+of Prompt Engineering</a></td>
+<td style="text-align: left;">Amazon</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://explore.skillbuilder.aws/learn/public/learning_plan/view/1909/generative-ai-learning-plan-for-decision-makers">Generative
+AI for Decision Makers</a></td>
+<td style="text-align: left;">Amazon</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.databricks.com/resources/learn/training/generative-ai-fundamentals">Generative
+AI Fundamentals</a></td>
+<td style="text-align: left;">Data Bricks</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">0.5</td>
+<td style="text-align: center;">🏅</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin">Career
+Essentials in Generative AI</a></td>
+<td style="text-align: left;">LinkedIn &amp; Microsoft</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">4.5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/">Prompt
+Engineering for Vision Models</a></td>
+<td style="text-align: left;">DeepLearning.AI &amp; Comet</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1.5</td>
+<td style="text-align: center;">🏅</td>
+</tr>
+</tbody>
+</table>
+<h2 id="networking">Networking</h2>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.netacad.com/courses/networking/networking-essentials">Networking
+Essentials</a></td>
+<td style="text-align: left;">Cisco Networking Academy</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">70</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/cisco/badge/networking-essentials">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://learn.saylor.org/course/view.php?id=84">CS402: Computer
+Communications and Networks</a></td>
+<td style="text-align: left;">Saylor Academy</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">60</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+</tbody>
+</table>
+<h2 id="operating-systems">Operating Systems</h2>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.netacad.com/courses/os-it/ndg-linux-unhatched">NDG
+Linux Unhatched</a></td>
+<td style="text-align: left;">Cisco Networking Academy</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">8</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.netacad.com/courses/os-it/ndg-linux-essentials">NDG
+Linux Essentials</a></td>
+<td style="text-align: left;">Cisco Networking Academy</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">70</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://learn.saylor.org/course/view.php?id=94">CS401: Operating
+Systems</a></td>
+<td style="text-align: left;">Saylor Academy</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">120</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+</tbody>
+</table>
+<h2 id="electrical-engineering">Electrical Engineering</h2>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.open.edu/openlearn/science-maths-technology/an-introduction-electronics/">Introduction
+to Electronics</a></td>
+<td style="text-align: left;">Open University</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.open.edu/openlearn/science-maths-technology/electronic-applications/">Electronic
+Applications</a></td>
+<td style="text-align: left;">Open University</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.academyeurope.org/courses/engineering-technology/embedded-systems-computer-course/">Embedded
+Systems</a></td>
+<td style="text-align: left;">Academy Europe</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">30</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mindluster.com/certificate/2234">Embedded Systems
+ES</a></td>
+<td style="text-align: left;">Mind Luster</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">8</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+</tbody>
+</table>
+<h2 id="robotics-and-iot">Robotics and IoT</h2>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.netacad.com/courses/iot/introduction-iot">Introduction
+to IoT</a></td>
+<td style="text-align: left;">Cisco Networking Academy</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/cisco/badge/introduction-to-iot">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/build-robots-with-tjbot">Building
+Robots with TJBot</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">🏅</td>
+</tr>
+</tbody>
+</table>
+<h2 id="chatbots">Chatbots</h2>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/chatbot-course">How to Build
+Chatbots</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">🏅</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/chatgpt-for-beginners">ChatGPT
+for Beginners</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/getting-started-with-bard">Getting
+Started with Bard</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+</tbody>
+</table>
+<h2 id="devops">DevOps</h2>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud">Containers,
+K8s and Istio on IBM cloud</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">9</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/containers-k8s-and-istio-on-ibm-cloud">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/docker-essentials">Docker
+Essentials</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/docker-essentials-a-developer-introduction">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/ibm-cloud-essentials">IBM Cloud
+Essentials</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/ibm-cloud-essentials.2">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/kubernetes-course">Introduction
+to Containers, Kubernetes, and OpenShift</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/containers-kubernetes-essentials">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-kubernetes1">Introduction
+to Kubernetes</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1.5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+</tbody>
+</table>
+<h2 id="programming-languages">Programming Languages</h2>
+<h3 id="c">C</h3>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://learn.saylor.org/course/view.php?id=65">CS107: C++
+Programming</a></td>
+<td style="text-align: left;">Saylor Academy</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">40</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.hackerrank.com/skills-verification/c_sharp_basic">C#</a></td>
+<td style="text-align: left;">HackerRank</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft">Foundational
+C# with Microsoft</a></td>
+<td style="text-align: left;">freeCodeCamp</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">35</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+</tbody>
+</table>
+<h3 id="cypher">Cypher</h3>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://memgraph.com/learn-cypher-query-language">Cypher Query
+Language</a></td>
+<td style="text-align: left;">Memgraph</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">🏅</td>
+</tr>
+</tbody>
+</table>
+<h3 id="java">Java</h3>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.hackerrank.com/skills-verification/java_basic">Java</a></td>
+<td style="text-align: left;">HackerRank</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+</tbody>
+</table>
+<h3 id="javascript">JavaScript</h3>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">JavaScript
+Algorithms and Data Structures Certification</a></td>
+<td style="text-align: left;">FreeCodeCamp</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">300</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.hackerrank.com/skills-verification/javascript_basic">JavaScript</a></td>
+<td style="text-align: left;">HackerRank</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1.5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+</tbody>
+</table>
+<h3 id="r">R</h3>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/r-101">R 101</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/r-essentials">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://cognitiveclass.ai/courses/using-r-with-databases/">Using R
+with Databases</a></td>
+<td style="text-align: left;">IBM / Cognitive Class</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;"><a
+href="https://www.youracclaim.com/org/ibm/badge/using-r-with-databases">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.hackerrank.com/skills-verification/r_basic">R</a></td>
+<td style="text-align: left;">HackerRank</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1.5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+</tbody>
+</table>
+<h3 id="python">Python</h3>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.netacad.com/courses/programming/pcap-programming-essentials-python">Programming
+Essentials In Python</a></td>
+<td style="text-align: left;">Cisco Networking Academy</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">70</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.freecodecamp.org/learn/scientific-computing-with-python/">Scientific
+Computing with Python Certification</a></td>
+<td style="text-align: left;">FreeCodeCamp</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">300</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.hackerrank.com/skills-verification/python_basic">Python</a></td>
+<td style="text-align: left;">HackerRank</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1.5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://memgraph.com/blog/learn-graph-analytics-with-python">Intro
+to Graph Analytics in Python free course</a></td>
+<td style="text-align: left;">Memgraph</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">🏅</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.kaggle.com/learn/python">Python</a></td>
+<td style="text-align: left;">Kaggle</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.kaggle.com/learn/pandas">Pandas</a></td>
+<td style="text-align: left;">Kaggle</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.kaggle.com/learn/intro-to-programming">Intro to
+Programming</a></td>
+<td style="text-align: left;">Kaggle</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/python-for-machine-learning-and-data-science">Python
+for Machine Leaning and Data Science</a></td>
+<td style="text-align: left;">Great Leaning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+</tbody>
+</table>
+<h2 id="theories-and-concepts">Theories and Concepts</h2>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.freecodecamp.org/learn/quality-assurance/">Quality
+Assurance Certification</a></td>
+<td style="text-align: left;">FreeCodeCamp</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">300</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://learn.saylor.org/course/view.php?id=6">CS101: Introduction
+to Computer Science I</a></td>
+<td style="text-align: left;">Saylor Academy</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">52</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://learn.saylor.org/course/view.php?id=64">CS102:
+Introduction to Computer Science II</a></td>
+<td style="text-align: left;">Saylor Academy</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">42</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://learn.saylor.org/course/view.php?id=66">CS201: Elementary
+Data Structures</a></td>
+<td style="text-align: left;">Saylor Academy</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">38</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://learn.saylor.org/course/view.php?id=67">CS202: Discrete
+Structures</a></td>
+<td style="text-align: left;">Saylor Academy</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">44</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://learn.saylor.org/course/view.php?id=71">CS301: Computer
+Architecture</a></td>
+<td style="text-align: left;">Saylor Academy</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">48</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://learn.saylor.org/course/view.php?id=73">CS302: Software
+Engineering</a></td>
+<td style="text-align: left;">Saylor Academy</td>
+<td style="text-align: left;">Professional</td>
+<td style="text-align: center;">45</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.hackerrank.com/skills-verification/problem_solving_basic">Problem
+Solving</a></td>
+<td style="text-align: left;">HackerRank</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1.5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.hackerrank.com/skills-verification/problem_solving_intermediate">Problem
+Solving</a></td>
+<td style="text-align: left;">HackerRank</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">1.5</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://memgraph.com/learn-graph-modeling">Graph Modeling Email
+Course</a></td>
+<td style="text-align: left;">Memgraph</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">🏅</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.kaggle.com/learn/geospatial-analysis">Geospatial
+Analysis</a></td>
+<td style="text-align: left;">Kaggle</td>
+<td style="text-align: left;">Intermediate</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+</tbody>
+</table>
+<h2 id="business">Business</h2>
+<h3 id="marketing">Marketing</h3>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing">Digital
+Marketing</a></td>
+<td style="text-align: left;">Google</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">40</td>
+<td style="text-align: center;">🏅</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://academy.sendinblue.com/course/email-marketing-course-english">Email
+Marketing</a></td>
+<td style="text-align: left;">SendinBlue</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">🏅</td>
+</tr>
+</tbody>
+</table>
+<!-- markdown-link-check-disable -->
+<h3 id="project-management">Project Management</h3>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.pmi.org/kickoff">KICKOFF</a><!-- markdown-link-check-disable-line --></td>
+<td style="text-align: left;">Project Management Institute</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">0.75</td>
+<td style="text-align: center;">🏅</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.msicertified.com/project-management/project-management-essentials-certified/">Project
+Management Essentials</a></td>
+<td style="text-align: left;">Management and Strategy Institute</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">0.75</td>
+<td style="text-align: center;">🏅</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.disasterready.org/free-certificate-project-management">Project
+Management Essentials</a></td>
+<td style="text-align: left;">Disaster Ready</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">🏅</td>
+</tr>
+</tbody>
+</table>
+<!-- markdown-link-check-enable -->
+<h3 id="support">Support</h3>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://www.mygreatlearning.com/academy/learn-for-free/courses/customer-relationship-management">Customer
+Relationship Management</a></td>
+<td style="text-align: left;">Great Learning</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">🏆</td>
+</tr>
+</tbody>
+</table>
+<h2 id="game-development">Game Development</h2>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 23%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Course Name</th>
+<th style="text-align: left;">Course Provider</th>
+<th style="text-align: left;">Level</th>
+<th style="text-align: center;">Hour(s)</th>
+<th style="text-align: center;">Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a
+href="https://learn.unity.com/pathway/unity-essentials">Unity
+Essentials</a></td>
+<td style="text-align: left;">Unity</td>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: center;">336</td>
+<td style="text-align: center;"><a
+href="https://www.credly.com/org/unity/badge/unity-essentials-pathway">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://learn.unity.com/pathway/junior-programmer">Junior
+Programmer</a></td>
+<td style="text-align: left;">Unity</td>
+<td style="text-align: left;">Beginer</td>
+<td style="text-align: center;">2000</td>
+<td style="text-align: center;"><a
+href="https://www.credly.com/org/unity/badge/unity-junior-programmer">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://learn.unity.com/pathway/creative-core">Creative
+Core</a></td>
+<td style="text-align: left;">Unity</td>
+<td style="text-align: left;">Beginer</td>
+<td style="text-align: center;">1680</td>
+<td style="text-align: center;"><a
+href="https://www.credly.com/org/unity/badge/unity-creative-core">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://learn.unity.com/pathway/vr-development">VR
+Development</a></td>
+<td style="text-align: left;">Unity</td>
+<td style="text-align: left;">Beginer</td>
+<td style="text-align: center;">1000</td>
+<td style="text-align: center;"><a
+href="https://www.credly.com/org/unity/badge/unity-vr-development">🏅</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a
+href="https://learn.unity.com/pathway/mobile-ar-development">Mobile AR
+Development</a></td>
+<td style="text-align: left;">Unity</td>
+<td style="text-align: left;">Beginer</td>
+<td style="text-align: center;">1344</td>
+<td style="text-align: center;"><a
+href="https://www.credly.com/org/unity/badge/unity-mobile-ar-development">🏅</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="contributors">Contributors</h2>
+<p><a href="https://github.com/panxproject/awesome-certificates/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=panxproject/awesome-certificates" />
+</a></p>
+<h2 id="other-awesome-lists">Other Awesome Lists</h2>
+<ul>
+<li><a href="https://github.com/ossu/computer-science">Open Source
+Society University</a> - The OSSU curriculum is a complete education in
+computer science using online materials. It’s not merely for career
+training or professional development.</li>
+<li><a href="https://github.com/prakhar1989/awesome-courses">Awesome
+Courses</a> - This list is an attempt to bring to light those awesome CS
+courses which make their high-quality material i.e. assignments,
+lectures, notes, readings &amp; examinations available online for
+free.</li>
+<li><a href="https://github.com/learn-anything/books">Books</a> - Learn
+Anything is collecting all material with focus on Computer Science but
+you’ll find other topics ranging from neuro science to philosophy.</li>
+<li><a href="https://github.com/karlhorky/learn-to-program">Learn to
+Program</a> - This list aims to be a curated set of high quality
+educational resources with focus on foundations of web
+developement.</li>
+</ul>

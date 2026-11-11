@@ -1,0 +1,1253 @@
+[
+  {
+    "category": "Contents",
+    "subcategory": null,
+    "courses": []
+  },
+  {
+    "category": "Security",
+    "subcategory": null,
+    "courses": [
+      {
+        "name": "Intro to Cybersecurity",
+        "url": "https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity",
+        "provider": "Cisco Networking Academy",
+        "level": "Beginner",
+        "hours": "15"
+      },
+      {
+        "name": "Cybersecurity Essentials",
+        "url": "https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials",
+        "provider": "Cisco Networking Academy",
+        "level": "Intermediate",
+        "hours": "30"
+      },
+      {
+        "name": "Intro to Packet Tracer",
+        "url": "https://www.netacad.com/courses/packet-tracer",
+        "provider": "Cisco Networking Academy",
+        "level": "Beginner",
+        "hours": "10"
+      },
+      {
+        "name": "Cybersecurity Fundamentals",
+        "url": "https://skills.yourlearning.ibm.com/activity/ILB-DNRPWDGQGMMY7GGD",
+        "provider": "IBM / SkillsBuild",
+        "level": "Beginner",
+        "hours": "10"
+      },
+      {
+        "name": "Information Security Certification",
+        "url": "https://www.freecodecamp.org/learn/information-security/",
+        "provider": "FreeCodeCamp",
+        "level": "Professional",
+        "hours": "300"
+      },
+      {
+        "name": "JR Penetration Tester",
+        "url": "https://tryhackme.com/path/outline/jrpenetrationtester",
+        "provider": "TryHackMe",
+        "level": "Intermediate",
+        "hours": "64"
+      },
+      {
+        "name": "Cyber Defense",
+        "url": "https://tryhackme.com/path/outline/blueteam",
+        "provider": "TryHackMe",
+        "level": "Intermediate",
+        "hours": "48"
+      },
+      {
+        "name": "Red Teaming",
+        "url": "https://tryhackme.com/path/outline/redteaming",
+        "provider": "TryHackMe",
+        "level": "Intermediate",
+        "hours": "48"
+      },
+      {
+        "name": "Offensive Testing",
+        "url": "https://tryhackme.com/path/outline/pentesting",
+        "provider": "TryHackMe",
+        "level": "Intermediate",
+        "hours": "47"
+      },
+      {
+        "name": "Comptia Pentest+",
+        "url": "https://tryhackme.com/path/outline/pentestplus",
+        "provider": "TryHackMe",
+        "level": "Beginner",
+        "hours": "51"
+      },
+      {
+        "name": "Web Fundamentals",
+        "url": "https://tryhackme.com/path/outline/web",
+        "provider": "TryHackMe",
+        "level": "Beginner",
+        "hours": "32"
+      },
+      {
+        "name": "Certified in Cybersecurity",
+        "url": "https://www.isc2.org/certifications/cc",
+        "provider": "ISC2",
+        "level": "Beginner",
+        "hours": "14"
+      },
+      {
+        "name": "Introduction to Cyber Security",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "3"
+      },
+      {
+        "name": "Types of Cyber Security",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/types-of-cyber-security",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "1"
+      },
+      {
+        "name": "Cyber Forensics",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/cyber-forensics",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "1"
+      },
+      {
+        "name": "Introduction to Information Security",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-information-security",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "2"
+      },
+      {
+        "name": "Network Security",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/network-security",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "1"
+      },
+      {
+        "name": "Advanced Cyber Security - Threats and Governance",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/advanced-cyber-security-threats-and-governance",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "2"
+      },
+      {
+        "name": "Encryption Basics",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/encryption",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "1"
+      }
+    ]
+  },
+  {
+    "category": "Front-End",
+    "subcategory": null,
+    "courses": [
+      {
+        "name": "Responsive Web Design Certification",
+        "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+        "provider": "FreeCodeCamp",
+        "level": "Professional",
+        "hours": "300"
+      },
+      {
+        "name": "Front-End Libraries Certification",
+        "url": "https://www.freecodecamp.org/learn/front-end-development-libraries/",
+        "provider": "FreeCodeCamp",
+        "level": "Professional",
+        "hours": "300"
+      },
+      {
+        "name": "Selenium 101",
+        "url": "https://www.lambdatest.com/certifications/selenium-101",
+        "provider": "LambdaTest",
+        "level": "Beginner",
+        "hours": "4"
+      },
+      {
+        "name": "Angular",
+        "url": "https://www.hackerrank.com/skills-verification/angular_basic",
+        "provider": "HackerRank",
+        "level": "Beginner",
+        "hours": "1"
+      },
+      {
+        "name": "React",
+        "url": "https://www.hackerrank.com/skills-verification/react_basic",
+        "provider": "HackerRank",
+        "level": "Beginner",
+        "hours": "1.5"
+      },
+      {
+        "name": "Node.js",
+        "url": "https://www.hackerrank.com/skills-verification/nodejs_intermediate",
+        "provider": "HackerRank",
+        "level": "Intermediate",
+        "hours": "1"
+      }
+    ]
+  },
+  {
+    "category": "Back-End",
+    "subcategory": null,
+    "courses": [
+      {
+        "name": "Back End Development and APIs Certification",
+        "url": "https://www.freecodecamp.org/learn/back-end-development-and-apis/",
+        "provider": "FreeCodeCamp",
+        "level": "Professional",
+        "hours": "300"
+      },
+      {
+        "name": "CS403: Introduction to Modern Database Systems",
+        "url": "https://learn.saylor.org/course/view.php?id=93",
+        "provider": "Saylor Academy",
+        "level": "Professional",
+        "hours": "42"
+      },
+      {
+        "name": "REST API",
+        "url": "https://www.hackerrank.com/skills-verification/rest_api_intermediate",
+        "provider": "HackerRank",
+        "level": "Intermediate",
+        "hours": "1.5"
+      },
+      {
+        "name": "MongoDB Basics",
+        "url": "https://university.mongodb.com/courses/M001/about",
+        "provider": "MongoDB",
+        "level": "Beginner",
+        "hours": "8.5"
+      },
+      {
+        "name": "MongoDB for SQL Pros",
+        "url": "https://university.mongodb.com/courses/M100/about",
+        "provider": "MongoDB",
+        "level": "Beginner",
+        "hours": "2"
+      },
+      {
+        "name": "MongoDB Cluster Adminstration",
+        "url": "https://university.mongodb.com/courses/M103/about",
+        "provider": "MongoDB",
+        "level": "Beginner",
+        "hours": "9.5"
+      },
+      {
+        "name": "MongoDB Aggregation Framework",
+        "url": "https://university.mongodb.com/courses/M121/about",
+        "provider": "MongoDB",
+        "level": "Beginner",
+        "hours": "9"
+      },
+      {
+        "name": "Crafting Conference Abstracts",
+        "url": "https://university.mongodb.com/courses/T101/about",
+        "provider": "MongoDB",
+        "level": "Beginner",
+        "hours": "1.5"
+      },
+      {
+        "name": "Atlas Security",
+        "url": "https://university.mongodb.com/courses/A300/about",
+        "provider": "MongoDB",
+        "level": "Beginner",
+        "hours": "0.5"
+      },
+      {
+        "name": "MongoDB Performance",
+        "url": "https://university.mongodb.com/courses/M201/about",
+        "provider": "MongoDB",
+        "level": "Intermediate",
+        "hours": "7"
+      },
+      {
+        "name": "MongoDB for Java Developers",
+        "url": "https://university.mongodb.com/courses/M220J/about",
+        "provider": "MongoDB",
+        "level": "Intermediate",
+        "hours": "7.5"
+      },
+      {
+        "name": "MongoDB for JavaScript Developers",
+        "url": "https://university.mongodb.com/courses/M220JS/about",
+        "provider": "MongoDB",
+        "level": "Intermediate",
+        "hours": "6.5"
+      },
+      {
+        "name": "MongoDB for .NET Developers",
+        "url": "https://university.mongodb.com/courses/M220N/about",
+        "provider": "MongoDB",
+        "level": "Intermediate",
+        "hours": "6.5"
+      },
+      {
+        "name": "MongoDB for Python Developers",
+        "url": "https://university.mongodb.com/courses/M220P/about",
+        "provider": "MongoDB",
+        "level": "Intermediate",
+        "hours": "6.5"
+      },
+      {
+        "name": "Diagnostics and Debugging for MongoDB",
+        "url": "https://university.mongodb.com/courses/M312/about",
+        "provider": "MongoDB",
+        "level": "Professional",
+        "hours": "6.5"
+      },
+      {
+        "name": "MongoDB Data Modeling",
+        "url": "https://university.mongodb.com/courses/M320/about",
+        "provider": "MongoDB",
+        "level": "Professional",
+        "hours": "7"
+      },
+      {
+        "name": "Intro to SQL",
+        "url": "https://www.kaggle.com/learn/intro-to-sql",
+        "provider": "Kaggle",
+        "level": "Beginner",
+        "hours": "3"
+      },
+      {
+        "name": "Advanced SQL",
+        "url": "https://www.kaggle.com/learn/advanced-sql",
+        "provider": "Kaggle",
+        "level": "Intermediate",
+        "hours": "4"
+      }
+    ]
+  },
+  {
+    "category": "Blockchain",
+    "subcategory": null,
+    "courses": [
+      {
+        "name": "Blockchain Masterclass",
+        "url": "https://courses.cfte.education/free-online-blockchain-masterclass/",
+        "provider": "Centre for Finance, Technology and Entrepreneurship",
+        "level": "Beginner",
+        "hours": "-"
+      },
+      {
+        "name": "Blockchain Basics",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/blockchain-basics",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "2.5"
+      },
+      {
+        "name": "Bitcoin for Developers",
+        "url": "https://learn.saylor.org/course/view.php?id=500",
+        "provider": "Saylor Academy",
+        "level": "Beginner",
+        "hours": "18"
+      }
+    ]
+  },
+  {
+    "category": "Data Analysis and Visualization",
+    "subcategory": null,
+    "courses": [
+      {
+        "name": "Data Analysis with Python",
+        "url": "https://cognitiveclass.ai/courses/data-analysis-python",
+        "provider": "IBM / Cognitive Class",
+        "level": "Intermediate",
+        "hours": "3"
+      },
+      {
+        "name": "Data Analysis with Python Certification",
+        "url": "https://www.freecodecamp.org/learn/data-analysis-with-python/",
+        "provider": "FreeCodeCamp",
+        "level": "Professional",
+        "hours": "300"
+      },
+      {
+        "name": "Data Visualization with Python",
+        "url": "https://cognitiveclass.ai/courses/data-visualization-with-python",
+        "provider": "IBM / Cognitive Class",
+        "level": "Intermediate",
+        "hours": "3"
+      },
+      {
+        "name": "Data Visualization with R",
+        "url": "https://cognitiveclass.ai/courses/data-visualization-with-r/",
+        "provider": "IBM / Cognitive Class",
+        "level": "Beginner",
+        "hours": "3"
+      },
+      {
+        "name": "Data Visualization Certification",
+        "url": "https://www.freecodecamp.org/learn/data-visualization/",
+        "provider": "FreeCodeCamp",
+        "level": "Professional",
+        "hours": "300"
+      },
+      {
+        "name": "Data Visualization",
+        "url": "https://www.kaggle.com/learn/data-visualization",
+        "provider": "Kaggle",
+        "level": "Beginner",
+        "hours": "4"
+      },
+      {
+        "name": "Data Cleaning",
+        "url": "https://www.kaggle.com/learn/data-cleaning",
+        "provider": "Kaggle",
+        "level": "Intermediate",
+        "hours": "4"
+      },
+      {
+        "name": "Data Visualisation in Tableau",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualisation-in-tableau",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "1"
+      },
+      {
+        "name": "Data Visualization With Power BI",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-with-power-bi",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "2"
+      }
+    ]
+  },
+  {
+    "category": "Statistics",
+    "subcategory": null,
+    "courses": [
+      {
+        "name": "Statistics 101",
+        "url": "https://cognitiveclass.ai/courses/statistics-101",
+        "provider": "IBM / Cognitive Class",
+        "level": "Beginner",
+        "hours": "3"
+      }
+    ]
+  },
+  {
+    "category": "Data Science",
+    "subcategory": null,
+    "courses": [
+      {
+        "name": "Data Science Methodologies",
+        "url": "https://cognitiveclass.ai/courses/data-science-methodology-2",
+        "provider": "IBM / Cognitive Class",
+        "level": "Beginner",
+        "hours": "3"
+      },
+      {
+        "name": "Data Science 101",
+        "url": "https://cognitiveclass.ai/courses/data-science-101/",
+        "provider": "IBM / Cognitive Class",
+        "level": "Beginner",
+        "hours": "3"
+      },
+      {
+        "name": "Data Science Tools",
+        "url": "https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2",
+        "provider": "IBM / Cognitive Class",
+        "level": "Beginner",
+        "hours": "4"
+      },
+      {
+        "name": "Python for Data Science",
+        "url": "https://cognitiveclass.ai/courses/python-for-data-science",
+        "provider": "IBM / Cognitive Class",
+        "level": "Beginner",
+        "hours": "3"
+      },
+      {
+        "name": "Popular Applications of Data Science",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/popular-applications-of-data-science",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "1"
+      },
+      {
+        "name": "Career in Data Science",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/career-in-data-science",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "1"
+      },
+      {
+        "name": "Introduction to Data Science",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-data-science",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "1"
+      },
+      {
+        "name": "Data Science Mathematics",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-mathematics",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "1"
+      },
+      {
+        "name": "R for Data Science",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/r-for-data-science",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "2"
+      },
+      {
+        "name": "Statistical Methods for Data Science",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/statistical-methods-for-decision-making",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "2"
+      },
+      {
+        "name": "Probability for Data Science",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/probability-for-data-science",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "2"
+      },
+      {
+        "name": "Data Preprocessing",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-preprocessing",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "2"
+      },
+      {
+        "name": "SQL for Data Science",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "3"
+      }
+    ]
+  },
+  {
+    "category": "Big Data",
+    "subcategory": null,
+    "courses": [
+      {
+        "name": "Big Data Foundations - Level 1",
+        "url": "https://cognitiveclass.ai/courses/what-is-big-data",
+        "provider": "IBM / Cognitive Class",
+        "level": "Beginner",
+        "hours": "3"
+      },
+      {
+        "name": "Hadoop Foundations - Level 1",
+        "url": "https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0111EN+2016",
+        "provider": "IBM  / Cognitive Class",
+        "level": "Beginner",
+        "hours": "4"
+      },
+      {
+        "name": "Spark Fundamentals I",
+        "url": "https://cognitiveclass.ai/courses/what-is-spark",
+        "provider": "IBM / Cognitive Class",
+        "level": "Beginner",
+        "hours": "5"
+      }
+    ]
+  },
+  {
+    "category": "Machine and Deep Learning",
+    "subcategory": null,
+    "courses": [
+      {
+        "name": "Deep Learning Fundamentals",
+        "url": "https://cognitiveclass.ai/courses/introduction-deep-learning",
+        "provider": "IBM / Cognitive Class",
+        "level": "Intermediate",
+        "hours": "3"
+      },
+      {
+        "name": "Deep Learning with TensorFlow",
+        "url": "https://cognitiveclass.ai/courses/deep-learning-tensorflow",
+        "provider": "IBM / Cognitive Class",
+        "level": "Beginner",
+        "hours": "3"
+      },
+      {
+        "name": "Machine Learning with Python",
+        "url": "https://cognitiveclass.ai/courses/machine-learning-with-python/",
+        "provider": "IBM / Cognitive Class",
+        "level": "Beginner",
+        "hours": "3"
+      },
+      {
+        "name": "Machine Learning with Python Certification",
+        "url": "https://www.freecodecamp.org/learn/machine-learning-with-python/",
+        "provider": "FreeCodeCamp",
+        "level": "Professional",
+        "hours": "300"
+      },
+      {
+        "name": "Intro to Machine Learning",
+        "url": "https://www.kaggle.com/learn/intro-to-machine-learning",
+        "provider": "Kaggle",
+        "level": "Beginner",
+        "hours": "3"
+      },
+      {
+        "name": "Intermediate Machine Learning",
+        "url": "https://www.kaggle.com/learn/intermediate-machine-learning",
+        "provider": "Kaggle",
+        "level": "Intermediate",
+        "hours": "4"
+      },
+      {
+        "name": "Machine Learning Explainability",
+        "url": "https://www.kaggle.com/learn/machine-learning-explainability",
+        "provider": "Kaggle",
+        "level": "Intermediate",
+        "hours": "4"
+      },
+      {
+        "name": "Intro to Deep Learning",
+        "url": "https://www.kaggle.com/learn/intro-to-deep-learning",
+        "provider": "Kaggle",
+        "level": "Intermediate",
+        "hours": "4"
+      },
+      {
+        "name": "Time Series",
+        "url": "https://www.kaggle.com/learn/time-series",
+        "provider": "Kaggle",
+        "level": "Intermediate",
+        "hours": "5"
+      },
+      {
+        "name": "Feature Engineering",
+        "url": "https://www.kaggle.com/learn/feature-engineering",
+        "provider": "Kaggle",
+        "level": "Intermediate",
+        "hours": "5"
+      },
+      {
+        "name": "Computer Vision",
+        "url": "https://www.kaggle.com/learn/computer-vision",
+        "provider": "Kaggle",
+        "level": "Intermediate",
+        "hours": "4"
+      }
+    ]
+  },
+  {
+    "category": "Artificial Intelligence",
+    "subcategory": null,
+    "courses": [
+      {
+        "name": "Elements of AI",
+        "url": "https://www.elementsofai.com/",
+        "provider": "University of Helsinki",
+        "level": "Beginner",
+        "hours": "30"
+      },
+      {
+        "name": "Intro to AI Ethics",
+        "url": "https://www.kaggle.com/learn/intro-to-ai-ethics",
+        "provider": "Kaggle",
+        "level": "Intermediate",
+        "hours": "4"
+      },
+      {
+        "name": "Intro to Game AI and Reinforcement Learning",
+        "url": "https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning",
+        "provider": "Kaggle",
+        "level": "Intermediate",
+        "hours": "4"
+      },
+      {
+        "name": "Introduction to Generative AI",
+        "url": "https://www.cloudskillsboost.google/course_templates/536",
+        "provider": "Google Cloud Skills Boost",
+        "level": "Intermediate",
+        "hours": "0.75"
+      },
+      {
+        "name": "Introduction to Artificial Intelligence",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-artificial-intelligence-1",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "1.5"
+      },
+      {
+        "name": "Foundations of Prompt Engineering",
+        "url": "https://explore.skillbuilder.aws/learn/course/external/view/elearning/17763/foundations-of-prompt-engineering",
+        "provider": "Amazon",
+        "level": "Intermediate",
+        "hours": "4"
+      },
+      {
+        "name": "Generative AI for Decision Makers",
+        "url": "https://explore.skillbuilder.aws/learn/public/learning_plan/view/1909/generative-ai-learning-plan-for-decision-makers",
+        "provider": "Amazon",
+        "level": "Beginner",
+        "hours": "3"
+      },
+      {
+        "name": "Generative AI Fundamentals",
+        "url": "https://www.databricks.com/resources/learn/training/generative-ai-fundamentals",
+        "provider": "Data Bricks",
+        "level": "Beginner",
+        "hours": "0.5"
+      },
+      {
+        "name": "Career Essentials in Generative AI",
+        "url": "https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin",
+        "provider": "LinkedIn & Microsoft",
+        "level": "Beginner",
+        "hours": "4.5"
+      },
+      {
+        "name": "Prompt Engineering for Vision Models",
+        "url": "https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/",
+        "provider": "DeepLearning.AI & Comet",
+        "level": "Beginner",
+        "hours": "1.5"
+      }
+    ]
+  },
+  {
+    "category": "Networking",
+    "subcategory": null,
+    "courses": [
+      {
+        "name": "Networking Essentials",
+        "url": "https://www.netacad.com/courses/networking/networking-essentials",
+        "provider": "Cisco Networking Academy",
+        "level": "Intermediate",
+        "hours": "70"
+      },
+      {
+        "name": "CS402: Computer Communications and Networks",
+        "url": "https://learn.saylor.org/course/view.php?id=84",
+        "provider": "Saylor Academy",
+        "level": "Intermediate",
+        "hours": "60"
+      }
+    ]
+  },
+  {
+    "category": "Operating Systems",
+    "subcategory": null,
+    "courses": [
+      {
+        "name": "NDG Linux Unhatched",
+        "url": "https://www.netacad.com/courses/os-it/ndg-linux-unhatched",
+        "provider": "Cisco Networking Academy",
+        "level": "Beginner",
+        "hours": "8"
+      },
+      {
+        "name": "NDG Linux Essentials",
+        "url": "https://www.netacad.com/courses/os-it/ndg-linux-essentials",
+        "provider": "Cisco Networking Academy",
+        "level": "Intermediate",
+        "hours": "70"
+      },
+      {
+        "name": "CS401: Operating Systems",
+        "url": "https://learn.saylor.org/course/view.php?id=94",
+        "provider": "Saylor Academy",
+        "level": "Professional",
+        "hours": "120"
+      }
+    ]
+  },
+  {
+    "category": "Electrical Engineering",
+    "subcategory": null,
+    "courses": [
+      {
+        "name": "Introduction to Electronics",
+        "url": "https://www.open.edu/openlearn/science-maths-technology/an-introduction-electronics/",
+        "provider": "Open University",
+        "level": "Intermediate",
+        "hours": "10"
+      },
+      {
+        "name": "Electronic Applications",
+        "url": "https://www.open.edu/openlearn/science-maths-technology/electronic-applications/",
+        "provider": "Open University",
+        "level": "Intermediate",
+        "hours": "10"
+      },
+      {
+        "name": "Embedded Systems",
+        "url": "https://www.academyeurope.org/courses/engineering-technology/embedded-systems-computer-course/",
+        "provider": "Academy Europe",
+        "level": "Intermediate",
+        "hours": "30"
+      },
+      {
+        "name": "Embedded Systems ES",
+        "url": "https://www.mindluster.com/certificate/2234",
+        "provider": "Mind Luster",
+        "level": "Intermediate",
+        "hours": "8"
+      }
+    ]
+  },
+  {
+    "category": "Robotics and IoT",
+    "subcategory": null,
+    "courses": [
+      {
+        "name": "Introduction to IoT",
+        "url": "https://www.netacad.com/courses/iot/introduction-iot",
+        "provider": "Cisco Networking Academy",
+        "level": "Beginner",
+        "hours": "20"
+      },
+      {
+        "name": "Building Robots with TJBot",
+        "url": "https://cognitiveclass.ai/courses/build-robots-with-tjbot",
+        "provider": "IBM / Cognitive Class",
+        "level": "Beginner",
+        "hours": "3"
+      }
+    ]
+  },
+  {
+    "category": "Chatbots",
+    "subcategory": null,
+    "courses": [
+      {
+        "name": "How to Build Chatbots",
+        "url": "https://cognitiveclass.ai/courses/chatbot-course",
+        "provider": "IBM / Cognitive Class",
+        "level": "Beginner",
+        "hours": "5"
+      },
+      {
+        "name": "ChatGPT for Beginners",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/chatgpt-for-beginners",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "2"
+      },
+      {
+        "name": "Getting Started with Bard",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/getting-started-with-bard",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "1"
+      }
+    ]
+  },
+  {
+    "category": "DevOps",
+    "subcategory": null,
+    "courses": [
+      {
+        "name": "Containers, K8s and Istio on IBM cloud",
+        "url": "https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud",
+        "provider": "IBM / Cognitive Class",
+        "level": "Beginner",
+        "hours": "9"
+      },
+      {
+        "name": "Docker Essentials",
+        "url": "https://cognitiveclass.ai/courses/docker-essentials",
+        "provider": "IBM / Cognitive Class",
+        "level": "Beginner",
+        "hours": "4"
+      },
+      {
+        "name": "IBM Cloud Essentials",
+        "url": "https://cognitiveclass.ai/courses/ibm-cloud-essentials",
+        "provider": "IBM / Cognitive Class",
+        "level": "Beginner",
+        "hours": "4"
+      },
+      {
+        "name": "Introduction to Containers, Kubernetes, and OpenShift",
+        "url": "https://cognitiveclass.ai/courses/kubernetes-course",
+        "provider": "IBM / Cognitive Class",
+        "level": "Beginner",
+        "hours": "3"
+      },
+      {
+        "name": "Introduction to Kubernetes",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-kubernetes1",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "1.5"
+      }
+    ]
+  },
+  {
+    "category": "Programming Languages",
+    "subcategory": null,
+    "courses": []
+  },
+  {
+    "category": "Programming Languages",
+    "subcategory": "C",
+    "courses": [
+      {
+        "name": "CS107: C++ Programming",
+        "url": "https://learn.saylor.org/course/view.php?id=65",
+        "provider": "Saylor Academy",
+        "level": "Professional",
+        "hours": "40"
+      },
+      {
+        "name": "C#",
+        "url": "https://www.hackerrank.com/skills-verification/c_sharp_basic",
+        "provider": "HackerRank",
+        "level": "Beginner",
+        "hours": "1"
+      },
+      {
+        "name": "Foundational C# with Microsoft",
+        "url": "https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft",
+        "provider": "freeCodeCamp",
+        "level": "Beginner",
+        "hours": "35"
+      }
+    ]
+  },
+  {
+    "category": "Programming Languages",
+    "subcategory": "Cypher",
+    "courses": [
+      {
+        "name": "Cypher Query Language",
+        "url": "https://memgraph.com/learn-cypher-query-language",
+        "provider": "Memgraph",
+        "level": "Beginner",
+        "hours": "1"
+      }
+    ]
+  },
+  {
+    "category": "Programming Languages",
+    "subcategory": "Java",
+    "courses": [
+      {
+        "name": "Java",
+        "url": "https://www.hackerrank.com/skills-verification/java_basic",
+        "provider": "HackerRank",
+        "level": "Beginner",
+        "hours": "1"
+      }
+    ]
+  },
+  {
+    "category": "Programming Languages",
+    "subcategory": "JavaScript",
+    "courses": [
+      {
+        "name": "JavaScript Algorithms and Data Structures Certification",
+        "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
+        "provider": "FreeCodeCamp",
+        "level": "Professional",
+        "hours": "300"
+      },
+      {
+        "name": "JavaScript",
+        "url": "https://www.hackerrank.com/skills-verification/javascript_basic",
+        "provider": "HackerRank",
+        "level": "Beginner",
+        "hours": "1.5"
+      }
+    ]
+  },
+  {
+    "category": "Programming Languages",
+    "subcategory": "R",
+    "courses": [
+      {
+        "name": "R 101",
+        "url": "https://cognitiveclass.ai/courses/r-101",
+        "provider": "IBM / Cognitive Class",
+        "level": "Beginner",
+        "hours": "3"
+      },
+      {
+        "name": "Using R with Databases",
+        "url": "https://cognitiveclass.ai/courses/using-r-with-databases/",
+        "provider": "IBM / Cognitive Class",
+        "level": "Beginner",
+        "hours": "3"
+      },
+      {
+        "name": "R",
+        "url": "https://www.hackerrank.com/skills-verification/r_basic",
+        "provider": "HackerRank",
+        "level": "Beginner",
+        "hours": "1.5"
+      }
+    ]
+  },
+  {
+    "category": "Programming Languages",
+    "subcategory": "Python",
+    "courses": [
+      {
+        "name": "Programming Essentials In Python",
+        "url": "https://www.netacad.com/courses/programming/pcap-programming-essentials-python",
+        "provider": "Cisco Networking Academy",
+        "level": "Intermediate",
+        "hours": "70"
+      },
+      {
+        "name": "Scientific Computing with Python Certification",
+        "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/",
+        "provider": "FreeCodeCamp",
+        "level": "Professional",
+        "hours": "300"
+      },
+      {
+        "name": "Python",
+        "url": "https://www.hackerrank.com/skills-verification/python_basic",
+        "provider": "HackerRank",
+        "level": "Beginner",
+        "hours": "1.5"
+      },
+      {
+        "name": "Intro to Graph Analytics in Python free course",
+        "url": "https://memgraph.com/blog/learn-graph-analytics-with-python",
+        "provider": "Memgraph",
+        "level": "Intermediate",
+        "hours": "3"
+      },
+      {
+        "name": "Python",
+        "url": "https://www.kaggle.com/learn/python",
+        "provider": "Kaggle",
+        "level": "Beginner",
+        "hours": "5"
+      },
+      {
+        "name": "Pandas",
+        "url": "https://www.kaggle.com/learn/pandas",
+        "provider": "Kaggle",
+        "level": "Beginner",
+        "hours": "4"
+      },
+      {
+        "name": "Intro to Programming",
+        "url": "https://www.kaggle.com/learn/intro-to-programming",
+        "provider": "Kaggle",
+        "level": "Beginner",
+        "hours": "5"
+      },
+      {
+        "name": "Python for Machine Leaning and Data Science",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-for-machine-learning-and-data-science",
+        "provider": "Great Leaning",
+        "level": "Beginner",
+        "hours": "3"
+      }
+    ]
+  },
+  {
+    "category": "Theories and Concepts",
+    "subcategory": null,
+    "courses": [
+      {
+        "name": "Quality Assurance Certification",
+        "url": "https://www.freecodecamp.org/learn/quality-assurance/",
+        "provider": "FreeCodeCamp",
+        "level": "Professional",
+        "hours": "300"
+      },
+      {
+        "name": "CS101: Introduction to Computer Science I",
+        "url": "https://learn.saylor.org/course/view.php?id=6",
+        "provider": "Saylor Academy",
+        "level": "Professional",
+        "hours": "52"
+      },
+      {
+        "name": "CS102: Introduction to Computer Science II",
+        "url": "https://learn.saylor.org/course/view.php?id=64",
+        "provider": "Saylor Academy",
+        "level": "Professional",
+        "hours": "42"
+      },
+      {
+        "name": "CS201: Elementary Data Structures",
+        "url": "https://learn.saylor.org/course/view.php?id=66",
+        "provider": "Saylor Academy",
+        "level": "Professional",
+        "hours": "38"
+      },
+      {
+        "name": "CS202: Discrete Structures",
+        "url": "https://learn.saylor.org/course/view.php?id=67",
+        "provider": "Saylor Academy",
+        "level": "Professional",
+        "hours": "44"
+      },
+      {
+        "name": "CS301: Computer Architecture",
+        "url": "https://learn.saylor.org/course/view.php?id=71",
+        "provider": "Saylor Academy",
+        "level": "Professional",
+        "hours": "48"
+      },
+      {
+        "name": "CS302: Software Engineering",
+        "url": "https://learn.saylor.org/course/view.php?id=73",
+        "provider": "Saylor Academy",
+        "level": "Professional",
+        "hours": "45"
+      },
+      {
+        "name": "Problem Solving",
+        "url": "https://www.hackerrank.com/skills-verification/problem_solving_basic",
+        "provider": "HackerRank",
+        "level": "Beginner",
+        "hours": "1.5"
+      },
+      {
+        "name": "Problem Solving",
+        "url": "https://www.hackerrank.com/skills-verification/problem_solving_intermediate",
+        "provider": "HackerRank",
+        "level": "Intermediate",
+        "hours": "1.5"
+      },
+      {
+        "name": "Graph Modeling Email Course",
+        "url": "https://memgraph.com/learn-graph-modeling",
+        "provider": "Memgraph",
+        "level": "Beginner",
+        "hours": "1"
+      },
+      {
+        "name": "Geospatial Analysis",
+        "url": "https://www.kaggle.com/learn/geospatial-analysis",
+        "provider": "Kaggle",
+        "level": "Intermediate",
+        "hours": "4"
+      }
+    ]
+  },
+  {
+    "category": "Business",
+    "subcategory": null,
+    "courses": []
+  },
+  {
+    "category": "Business",
+    "subcategory": "Marketing",
+    "courses": [
+      {
+        "name": "Digital Marketing",
+        "url": "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing",
+        "provider": "Google",
+        "level": "Beginner",
+        "hours": "40"
+      },
+      {
+        "name": "Email Marketing",
+        "url": "https://academy.sendinblue.com/course/email-marketing-course-english",
+        "provider": "SendinBlue",
+        "level": "Beginner",
+        "hours": "4"
+      }
+    ]
+  },
+  {
+    "category": "Business",
+    "subcategory": "Project Management",
+    "courses": [
+      {
+        "name": "KICKOFF",
+        "url": "https://www.pmi.org/kickoff",
+        "provider": "Project Management Institute",
+        "level": "Beginner",
+        "hours": "0.75"
+      },
+      {
+        "name": "Project Management Essentials",
+        "url": "https://www.msicertified.com/project-management/project-management-essentials-certified/",
+        "provider": "Management and Strategy Institute",
+        "level": "Beginner",
+        "hours": "0.75"
+      },
+      {
+        "name": "Project Management Essentials",
+        "url": "https://www.disasterready.org/free-certificate-project-management",
+        "provider": "Disaster Ready",
+        "level": "Beginner",
+        "hours": "5"
+      }
+    ]
+  },
+  {
+    "category": "Business",
+    "subcategory": "Support",
+    "courses": [
+      {
+        "name": "Customer Relationship Management",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/customer-relationship-management",
+        "provider": "Great Learning",
+        "level": "Beginner",
+        "hours": "1"
+      }
+    ]
+  },
+  {
+    "category": "Game Development",
+    "subcategory": null,
+    "courses": [
+      {
+        "name": "Unity Essentials",
+        "url": "https://learn.unity.com/pathway/unity-essentials",
+        "provider": "Unity",
+        "level": "Beginner",
+        "hours": "336"
+      },
+      {
+        "name": "Junior Programmer",
+        "url": "https://learn.unity.com/pathway/junior-programmer",
+        "provider": "Unity",
+        "level": "Beginer",
+        "hours": "2000"
+      },
+      {
+        "name": "Creative Core",
+        "url": "https://learn.unity.com/pathway/creative-core",
+        "provider": "Unity",
+        "level": "Beginer",
+        "hours": "1680"
+      },
+      {
+        "name": "VR Development",
+        "url": "https://learn.unity.com/pathway/vr-development",
+        "provider": "Unity",
+        "level": "Beginer",
+        "hours": "1000"
+      },
+      {
+        "name": "Mobile AR Development",
+        "url": "https://learn.unity.com/pathway/mobile-ar-development",
+        "provider": "Unity",
+        "level": "Beginer",
+        "hours": "1344"
+      }
+    ]
+  },
+  {
+    "category": "Contributors",
+    "subcategory": null,
+    "courses": []
+  },
+  {
+    "category": "Other Awesome Lists",
+    "subcategory": null,
+    "courses": []
+  }
+]

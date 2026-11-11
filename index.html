@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Amit Puri — Portfolio & Certifications</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+<style>
+:root{ --bg:#05080f; --ink:#ffffff; --muted:#b0c0d6; --line:rgba(255,255,255,.15); --card:rgba(11,18,32,0.7); --accent:#38bdf8; }
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{ font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; background:var(--bg); color:var(--ink); line-height:1.65; overflow-x:hidden; }
+a{color:inherit;text-decoration:none}
+
+/* Video Background */
+.bg-media{position:fixed;inset:0;z-index:-2;overflow:hidden;background:var(--bg)}
+.bg-media video{ width:100%;height:100%; object-fit:cover; opacity:0.85; }
+.bg-glow{position:fixed;inset:0;z-index:-2;pointer-events:none; background:radial-gradient(1000px 600px at 15% 8%,rgba(56,189,248,.25),transparent 60%);}
+.bg-overlay{position:fixed;inset:0;z-index:-1;pointer-events:none; background:linear-gradient(180deg,rgba(5,8,15,.3) 0%,rgba(5,8,15,.9) 50%,var(--bg) 95%)}
+
+/* Nav */
+.nav{position:fixed;top:0;left:0;right:0;z-index:100;display:flex;align-items:center; justify-content:space-between;padding:18px 28px;transition:all .35s}
+.nav.scrolled{background:rgba(5,8,15,.85);backdrop-filter:blur(14px);border-bottom:1px solid var(--line);padding:14px 28px}
+.brand{font-weight:800;letter-spacing:2.6px;font-size:14px;display:flex;align-items:center;gap:10px}
+.brand i{width:8px;height:8px;border-radius:50%;background:var(--accent);box-shadow:0 0 15px var(--accent);}
+.nav ul{display:flex;gap:28px;list-style:none;font-size:13px;font-weight:600}
+.nav ul a:hover{color:var(--accent);}
+
+/* Hero */
+.hero{min-height:100vh;display:flex;align-items:center;justify-content:center;text-align:center;padding:140px 24px 100px;}
+.hero h1{font-size:clamp(40px,9vw,96px);font-weight:800;letter-spacing:-3px;line-height:1;margin-bottom:18px;text-shadow:0 0 60px rgba(56,189,248,0.6)}
+.hero .role{font-size:clamp(12px,2.5vw,16px);letter-spacing:4px;text-transform:uppercase;color:var(--accent);font-weight:700;margin-bottom:28px;}
+.btn{display:inline-flex;align-items:center;gap:10px;padding:16px 34px;border-radius:12px;font-weight:700;transition:all .2s}
+.btn-primary{background:linear-gradient(135deg,var(--accent),#0ea5e9);color:#04121f;box-shadow:0 0 25px rgba(56,189,248,.5)}
+.btn-primary:hover{transform:translateY(-3px);box-shadow:0 0 40px rgba(56,189,248,.8);}
+
+/* Data Section */
+.data-section { padding: 60px 20px; background: rgba(5,8,15, 0.95); border-top: 1px solid rgba(255,255,255,0.1); }
+.data-section h2 { color: #38bdf8; margin: 40px 0 15px 0; border-bottom: 2px solid #38bdf8; padding-bottom: 5px; font-size: 1.8rem;}
+.data-section h3 { color: #e2e8f0; margin: 25px 0 10px 0; font-size: 1.3rem;}
+.data-section ul { margin-left: 20px; margin-bottom: 30px; column-count: 2; column-gap: 40px;}
+@media(max-width:760px){ .data-section ul { column-count: 1; } }
+.data-section li { margin-bottom: 8px; break-inside: avoid; }
+.data-section table { width: 100%; border-collapse: collapse; margin-bottom: 40px; font-size: 14px; }
+.data-section th, .data-section td { padding: 12px 10px; text-align: left; border-bottom: 1px solid rgba(255,255,255,0.1); }
+.data-section th { background: rgba(255,255,255,0.05); color: #38bdf8; }
+.data-section tr:hover { background: rgba(255,255,255,0.05); }
+.data-section a { color: #93c5fd; text-decoration: none; }
+.data-section a:hover { text-decoration: underline; }
+</style>
+<script src="data.js"></script>
+</head>
+<body>
+
+<div class="bg-glow"></div>
+<div class="bg-media">
+  <video autoplay muted loop playsinline><source src="background.mp4" type="video/mp4"></video>
+</div>
+<div class="bg-overlay"></div>
+
+<nav class="nav" id="nav">
+  <a class="brand" href="#top"><i></i>AMIT PURI</a>
+  <ul>
+    <li><a href="#courses">Full List</a></li>
+  </ul>
+</nav>
+
+<header class="hero" id="top">
+  <div>
+    <h1>AMIT PURI</h1>
+    <p class="role">AI Sales · Consultation · Client Services</p>
+    <a class="btn btn-primary" href="#courses">See the full list &rarr;</a>
+  </div>
+</header>
+
+<section class="data-section" id="courses">
+  <div style="max-width: 1200px; margin: 0 auto;">
+    <h2 style="text-align:center; border:none;">Awesome Certificates</h2>
+    <ul id="toc-list"></ul>
+    <div id="courses-container"></div>
+  </div>
+</section>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const tocList = document.getElementById('toc-list');
+    const coursesContainer = document.getElementById('courses-container');
+    
+    if (typeof courseData === 'undefined') {
+        coursesContainer.innerHTML = "<p style='color:red'>Error: Data not loaded. Please run the extraction script again.</p>";
+        return;
+    }
+
+    let currentCategory = "";
+
+    courseData.forEach(section => {
+        if (section.courses.length === 0) return;
+        
+        if (section.category !== currentCategory) {
+            currentCategory = section.category;
+            const h2 = document.createElement('h2');
+            h2.id = currentCategory.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+            h2.textContent = currentCategory;
+            coursesContainer.appendChild(h2);
+            
+            const li = document.createElement('li');
+            const a = document.createElement('a');
+            a.href = '#' + h2.id;
+            a.textContent = currentCategory;
+            a.style.color = "#93c5fd";
+            li.appendChild(a);
+            tocList.appendChild(li);
+        }
+
+        if (section.subcategory) {
+            const h3 = document.createElement('h3');
+            h3.textContent = section.subcategory;
+            coursesContainer.appendChild(h3);
+        }
+
+        const table = document.createElement('table');
+        
+        // Check if it's a 4-column table or a 2-column list (like Game Dev / Other Lists)
+        const has4Cols = section.courses.length > 0 && section.courses[0].level !== '';
+        
+        if (has4Cols) {
+            table.innerHTML = '<tr><th>Course Name</th><th>Course Provider</th><th>Level</th><th>Hour(s)</th></tr>';
+        } else {
+            table.innerHTML = '<tr><th>Course Name</th><th>Description</th></tr>';
+        }
+
+        section.courses.forEach(course => {
+            const tr = document.createElement('tr');
+            if (has4Cols) {
+                tr.innerHTML = `
+                    <td><a href="${course.url}" target="_blank">${course.name}</a></td>
+                    <td>${course.provider}</td>
+                    <td>${course.level}</td>
+                    <td>${course.hours}</td>
+                `;
+            } else {
+                 tr.innerHTML = `
+                    <td><a href="${course.url}" target="_blank">${course.name}</a></td>
+                    <td>${course.provider}</td>
+                `;
+            }
+            table.appendChild(tr);
+        });
+        coursesContainer.appendChild(table);
+    });
+    
+    var nav=document.getElementById('nav');
+    window.addEventListener('scroll',function(){ nav.classList.toggle('scrolled',window.scrollY>40); },{passive:true});
+});
+</script>
+</body>
+</html>
