@@ -1,0 +1,51 @@
+<style>
+    #video-background-container {
+        position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+        z-index: -1; overflow: hidden;
+    }
+    #bg-video {
+        width: 100%; height: 100%; object-fit: cover;
+    }
+    /* DARK OVERLAY: This sits between the video and the text so the video is visible but text is readable */
+    body::before {
+        content: "";
+        position: fixed;
+        top: 0; left: 0; width: 100%; height: 100%;
+        background: rgba(0, 0, 0, 0.75); /* 75% dark overlay */
+        z-index: -1;
+    }
+    /* Make all text white so it shows up on the dark background */
+    body, p, ul, li, h1, h2, h3, h4, a, td, th {
+        color: #ffffff !important;
+    }
+    /* Make table rows slightly visible */
+    tr { background-color: rgba(255, 255, 255, 0.05); }
+    
+    .controls {
+        position: fixed; bottom: 20px; right: 20px; z-index: 1000;
+    }
+    .controls button {
+        padding: 10px 15px; background: #333; color: white;
+        border: 1px solid #fff; border-radius: 5px; cursor: pointer; font-weight: bold;
+    }
+</style>
+
+<div id="video-background-container">
+    <!-- Using a reliable online video link for testing -->
+    <video id="bg-video" autoplay loop muted playsinline>
+        <source src="https://assets.mixkit.co/videos/preview/mixkit-stars-in-space-1610-large.mp4" type="video/mp4">
+    </video>
+</div>
+<div class="controls">
+    <button id="toggle-btn">Mute / Unmute</button>
+</div>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const video = document.getElementById('bg-video');
+        const btn = document.getElementById('toggle-btn');
+        btn.addEventListener('click', function() {
+            video.muted = !video.muted;
+            btn.textContent = video.muted ? 'Unmute' : 'Mute';
+        });
+    });
+</script>
